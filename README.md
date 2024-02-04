@@ -1,16 +1,27 @@
-# internshala_assignment
+# Internship Search App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This Flutter application allows users to search for internships using the Internshala API. Users can browse through a list of available internships, apply filters, and view detailed information about each internship.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Display a list of internships from the Internshala API
+- Apply filters based on the profile, city, and duration of internships
+- View detailed information about each internship, including salary, location, and other relevant details
+- User-friendly interface for easy navigation and interaction
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Get](https://pub.dev/packages/get) - State management and navigation
+- [HTTP](https://pub.dev/packages/http) - HTTP requests to interact with the Internshala API
+- [Image Picker](https://pub.dev/packages/image_picker) - Pick images from the device
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/internship-search-app.git
